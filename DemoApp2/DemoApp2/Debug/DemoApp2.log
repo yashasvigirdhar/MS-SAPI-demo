@@ -1,0 +1,19 @@
+﻿Build started 5/15/2014 5:01:02 AM.
+     1>Project "c:\Users\Yash-G\documents\visual studio 2013\Projects\DemoApp2\DemoApp2\DemoApp2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\DemoApp2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DemoApp2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt DemoApp2.cpp
+         DemoApp2.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\DemoApp2.res" DemoApp2.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp2\Debug\DemoApp2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp2\Debug\DemoApp2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp2\Debug\DemoApp2.lib" /MACHINE:X86 Debug\DemoApp2.res
+         Debug\DemoApp2.obj
+         Debug\stdafx.obj
+         DemoApp2.vcxproj -> c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp2\Debug\DemoApp2.exe
+     1>Done Building Project "c:\Users\Yash-G\documents\visual studio 2013\Projects\DemoApp2\DemoApp2\DemoApp2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.05
