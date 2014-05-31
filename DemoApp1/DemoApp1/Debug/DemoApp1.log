@@ -1,16 +1,14 @@
-﻿Build started 5/13/2014 3:16:57 AM.
-     1>Project "c:\Users\Yash-G\documents\visual studio 2013\Projects\DemoApp1\DemoApp1\DemoApp1.vcxproj" on node 2 (Build target(s)).
+﻿Build started 5/31/2014 10:06:16 AM.
+     1>Project "C:\Users\Yash-G\Documents\Visual Studio 2013\Projects\DemoApp1\DemoApp1\DemoApp1.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\DemoApp1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DemoApp1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DemoApp1.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W0 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DemoApp1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DemoApp1.cpp
          DemoApp1.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp1\Debug\DemoApp1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp1\Debug\DemoApp1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp1\Debug\DemoApp1.lib" /MACHINE:X86 Debug\DemoApp1.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yash-G\Documents\Visual Studio 2013\Projects\DemoApp1\Debug\DemoApp1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yash-G\Documents\Visual Studio 2013\Projects\DemoApp1\Debug\DemoApp1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yash-G\Documents\Visual Studio 2013\Projects\DemoApp1\Debug\DemoApp1.lib" /MACHINE:X86 Debug\DemoApp1.obj
          Debug\stdafx.obj
-         DemoApp1.vcxproj -> c:\users\yash-g\documents\visual studio 2013\Projects\DemoApp1\Debug\DemoApp1.exe
-     1>Done Building Project "c:\Users\Yash-G\documents\visual studio 2013\Projects\DemoApp1\DemoApp1\DemoApp1.vcxproj" (Build target(s)).
+         DemoApp1.vcxproj -> C:\Users\Yash-G\Documents\Visual Studio 2013\Projects\DemoApp1\Debug\DemoApp1.exe
+     1>Done Building Project "C:\Users\Yash-G\Documents\Visual Studio 2013\Projects\DemoApp1\DemoApp1\DemoApp1.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:05.97
+Time Elapsed 00:00:02.60
