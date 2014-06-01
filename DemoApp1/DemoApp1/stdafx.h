@@ -15,5 +15,11 @@
 
 #include <atlbase.h>
 #include <atlstr.h>
+#include <Windows.h>
 
 // TODO: reference additional headers your program requires here
+#include <sapi.h>
+#include <sphelper.h>
+#include <iostream>
+
+using namespace std;

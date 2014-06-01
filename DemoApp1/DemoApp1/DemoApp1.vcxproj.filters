@@ -29,7 +29,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DemoApp1.cpp">
+    <ClCompile Include="GetRawAudioData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectOutputToWavFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
